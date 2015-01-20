@@ -1,7 +1,7 @@
 Where do you want to live?
 ----------------------------
 
-([You can demo here](http://buzzlightyear182.github.io/ajax-api-requests-exercise/))
+[You can demo here](http://buzzlightyear182.github.io/ajax-api-requests-exercise/)
 
 *A small exercise on making AJAX requests and using various APIs
 
